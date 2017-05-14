@@ -1,0 +1,73 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #fff;
+}
+.taskbar{
+	width: 100%;
+	height: 50px;
+	background: #6a83bf;
+}
+#form{
+	margin-left : 10px;
+}
+#txt1{
+	text-align: center;
+	color: #1052ec;
+}
+#dk{
+	border: ridge;
+	width: 40%;
+	height: 470px;
+	margin: 0px auto;
+	background: #eaeaea;
+}
+span{
+	width: 30%;
+	float: left;
+	font-size: 20px;
+}
+#form input[type=text], input[type=password] {
+	width: 60%;
+	font-size: 20px;
+}
+
+.btndangky{
+	width: 90%;
+    font-size: 24px;
+    line-height: 53px;
+    background-color: #0072bc;
+    border-radius: 8px;
+    color: #FFF;
+    text-align: center;
+    padding-top: 0px;
+    font-weight: bold;
+    border: none;
+}
+
+.footer{
+	height: 180px;
+	background:#e4e4e4;
+}
+#footer-child{
+	width: 40%;
+	margin:0px auto;
+
+
+}
+#footer-left{
+	width: 50%;
+	float: left;
+}
+#footer-right{
+	margin-top: 30px;
+	width: 40%;
+	float: right;
+}
+.footer-right>li a{
+	text-decoration: none;
+	color:black;
+}
+.footer-right>li a:hover{
+	color: #cc920c;
+}
